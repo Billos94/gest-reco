@@ -1,0 +1,12 @@
+All correlation between Target and Features
+		that are greater than 0.7
+
+cor(Target, STD_A_Y)	= -0.74
+cor(Target, RMS_A_Z) 	= -0.84
+cor(Target, RMS_A_X) 	=  0.89
+cor(Target, Median_M_X) =  0.72
+cor(Target, Median_A_Z) = -0.79
+cor(Target, Median_A_X) =  0.86
+cor(Target, Mean_M_X) 	=  0.72
+cor(Target, Mean_A_Z) 	= -0.80
+cor(Target, Mean_A_X) 	=  0.85
